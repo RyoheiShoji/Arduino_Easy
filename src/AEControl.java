@@ -7,7 +7,7 @@ public class AEControl extends JPanel implements KeyListener,Runnable{
 
 	@Override
 	public void run() {
-		// TODO 自動生成されたメソッド・スタブ
+
 
 	}
 
